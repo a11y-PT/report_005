@@ -28,3 +28,7 @@ Consulte aqui a última atualização: [Relatório do {{ page.website }}](report
     <li><a href="relatorio_report_005.html">(22/09/2025). Relatório da CM Valongo</a></li>
   </ul>
 </details>
+
+## Declaração de Acessibilidade analisada
+
+- [https://www.cm-valongo.pt/ficha-tecnica/declaracao-de-acessibilidade-e-usabilidade](https://www.cm-valongo.pt/ficha-tecnica/declaracao-de-acessibilidade-e-usabilidade)
