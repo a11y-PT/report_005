@@ -3,6 +3,7 @@
 - URL: www.cm-valongo.pt
 - Proprietário: CM Valongo
 - Candidatura a: Selo Prata
+- Estado: A aguardar correções da entidade
   
 ## Relatório de Auditoria
 
