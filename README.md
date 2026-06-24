@@ -1,6 +1,6 @@
 ---
 website: "Câmara Municipal de Valongo (sítio Web institucional)"          # Entre as aspas escreve o nome do website
-date: "24/06/2025"                    # Entre as aspas escreve a data de criação do 1º relatório. Os restantes estão no histórico
+date: "24/06/2026"                    # Entre as aspas escreve a data de criação do 1º relatório. Os restantes estão no histórico
 uri: "https://www.cm-valongo.pt/"   # Entre as aspas escreve o domínio do website
 a11y_statement: "https://www.cm-valongo.pt/ficha-tecnica/declaracao-de-acessibilidade-e-usabilidade" # Entre as aspas escreve o URL da Declaração de Acessibilidade do website
 owner: "Câmara Municipal de Valongo"         # Entre as aspas escrever o nome do owner do website
