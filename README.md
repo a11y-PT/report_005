@@ -20,6 +20,7 @@ Consulte aqui a última atualização: [Relatório do {{ page.website }}](report
 <details>
   <summary>Histórico de atualizações</summary>
   <ul aria-label="lista de relatórios já efetuados">
+    <li><a href="01072026_report.html">(01/07/2026). Relatório da CM Valongo</a></li>
     <li><a href="24062026_report.html">(24/06/2026). Relatório da CM Valongo</a></li>
     <li><a href="18062026_report.html">(18/06/2026). Relatório da CM Valongo</a></li>
     <li><a href="22102025_report_005.html">(22/10/2025). Relatório da CM Valongo</a></li>
