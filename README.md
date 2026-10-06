@@ -2,8 +2,12 @@
 website: "Câmara Municipal de Valongo (sítio Web institucional)"          # Entre as aspas escreve o nome do website
 date: "24/06/2026"                    # Entre as aspas escreve a data de criação do 1º relatório. Os restantes estão no histórico
 uri: "https://www.cm-valongo.pt/"   # Entre as aspas escreve o domínio do website
+a11y_statement: "https://www." # Entre as aspas escreve o URL da Declaração de Acessibilidade do website
+a11y_statement_date: "dd/mm/aaaa"  # Entre as aspas escreve a data da Declaração de Acessibilidade
 owner: "Câmara Municipal de Valongo"         # Entre as aspas escrever o nome do owner do website
 seal: "Ouro"                          # Entre as aspas escreve Bronze, Prata ou Ouro
+validity: " a " # Entre as aspas escreve data de início e data de fim no formato 31/12/1999 a 31/12/2000
+status: "Concluído" # Entre as aspas escreve uma das seguintes opções: "Auditoria a decorrer", "A aguardar correções da entidade", "Concluído" 
 ---
 
 # {{ page.website }}
